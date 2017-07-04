@@ -62,7 +62,7 @@ int main(int argc, const char * argv[]) {
         
         
         
-
+//weiter mit Instanzvariablen S. 217
         
         
         
